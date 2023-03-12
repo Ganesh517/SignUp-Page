@@ -409,19 +409,24 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !==true)
 ```
 
 ## OUTPUT:
-### indexpage
+## indexpage
+
 ![localhost](https://user-images.githubusercontent.com/75235006/224556645-860eb26e-e717-4b72-82c3-858b6fb6d6d3.png)
 
-### register page
+## register page
+
 ![register](https://user-images.githubusercontent.com/75235006/224556751-28c576bb-636f-4c25-a18b-25d5344e76d7.png)
 
-### login page
+## login page
+
 ![login](https://user-images.githubusercontent.com/75235006/224556764-b9fea8b4-0cf0-4ef6-b082-a7899ce6e59a.png)
 
-### profile page
+## profile page
+
 ![profile](https://user-images.githubusercontent.com/75235006/224556822-af584bf4-c48b-4e47-a331-7112d39aa33b.png)
 
 ### users database
+
 ![users](https://user-images.githubusercontent.com/75235006/224556861-485d60a7-9c4c-4495-a58c-9675d907f16c.png)
 
 
