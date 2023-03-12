@@ -409,3 +409,6 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !==true)
 ```
 
 ## OUTPUT:
+![localhost](https://user-images.githubusercontent.com/75235006/224556645-860eb26e-e717-4b72-82c3-858b6fb6d6d3.png)
+
+
